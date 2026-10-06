@@ -1,0 +1,547 @@
+ano,mes,produto,canal,regiao_cliente,quantidade,receita_eur,custo_eur,devolucoes
+2023,1,Azeite,Distribuidor,Tamega e Sousa,156,1171.37,733.25,4
+2023,1,Azeite,Loja propria,Norte litoral,88,696.32,400.94,1
+2023,1,Azeite,Online,Douro,81,668.48,368.58,2
+2023,1,Castanha,Distribuidor,Douro,168,452.63,297.27,4
+2023,1,Castanha,Loja propria,Douro,80,253.76,140.8,1
+2023,1,Castanha,Online,Tamega e Sousa,76,248.31,126.9,2
+2023,1,Enchidos,Distribuidor,Norte litoral,139,1436.62,930.75,2
+2023,1,Enchidos,Loja propria,Exportacao,66,727.34,406.11,0
+2023,1,Enchidos,Online,Douro,33,357.58,213.97,0
+2023,1,Mel,Distribuidor,Exportacao,152,815.73,482.21,1
+2023,1,Mel,Loja propria,Tamega e Sousa,95,594.04,303.3,1
+2023,1,Mel,Online,Douro,57,344.35,159.07,0
+2023,1,Vinho tinto,Distribuidor,Lisboa,152,853.88,436.71,1
+2023,1,Vinho tinto,Loja propria,Norte litoral,132,792.22,389.2,0
+2023,1,Vinho tinto,Online,Norte litoral,76,488.77,217.92,2
+2023,2,Azeite,Distribuidor,Douro,166,1146.58,710.76,2
+2023,2,Azeite,Loja propria,Norte litoral,120,894.99,538.83,2
+2023,2,Azeite,Online,Douro,85,667.29,386.04,1
+2023,2,Castanha,Distribuidor,Alto Tamega,160,507.08,288.31,1
+2023,2,Castanha,Loja propria,Tamega e Sousa,110,343.61,188.0,3
+2023,2,Castanha,Online,Lisboa,65,204.2,112.85,3
+2023,2,Enchidos,Distribuidor,Exportacao,164,1624.75,1010.53,1
+2023,2,Enchidos,Loja propria,Alto Tamega,81,931.23,532.04,1
+2023,2,Enchidos,Online,Douro,67,724.71,408.71,1
+2023,2,Mel,Distribuidor,Norte litoral,167,978.47,513.61,2
+2023,2,Mel,Loja propria,Lisboa,115,663.05,342.55,1
+2023,2,Mel,Online,Tamega e Sousa,103,631.76,336.78,1
+2023,2,Vinho tinto,Distribuidor,Exportacao,149,845.09,461.17,3
+2023,2,Vinho tinto,Loja propria,Exportacao,74,486.12,205.6,0
+2023,2,Vinho tinto,Online,Douro,92,604.27,259.98,2
+2023,3,Azeite,Distribuidor,Tamega e Sousa,147,1059.13,698.86,2
+2023,3,Azeite,Loja propria,Douro,110,874.6,540.31,2
+2023,3,Azeite,Online,Alto Tamega,74,605.07,336.55,0
+2023,3,Castanha,Distribuidor,Norte litoral,149,440.85,260.74,3
+2023,3,Castanha,Loja propria,Exportacao,86,293.04,152.16,0
+2023,3,Castanha,Online,Norte litoral,71,238.21,117.5,1
+2023,3,Enchidos,Distribuidor,Norte litoral,145,1459.43,929.55,1
+2023,3,Enchidos,Loja propria,Douro,95,1080.32,606.35,3
+2023,3,Enchidos,Online,Douro,57,623.44,333.6,2
+2023,3,Mel,Distribuidor,Norte litoral,158,888.5,521.78,3
+2023,3,Mel,Loja propria,Lisboa,78,458.03,230.29,1
+2023,3,Mel,Online,Douro,67,382.6,214.01,2
+2023,3,Vinho tinto,Distribuidor,Douro,128,754.92,372.86,2
+2023,3,Vinho tinto,Loja propria,Norte litoral,111,721.7,326.18,3
+2023,3,Vinho tinto,Online,Alto Tamega,57,366.79,170.94,0
+2023,4,Azeite,Distribuidor,Alto Tamega,159,1106.39,708.34,2
+2023,4,Azeite,Loja propria,Norte litoral,75,573.44,343.89,1
+2023,4,Azeite,Online,Douro,68,532.43,319.23,0
+2023,4,Castanha,Distribuidor,Exportacao,134,415.42,226.69,2
+2023,4,Castanha,Loja propria,Tamega e Sousa,137,431.41,239.83,1
+2023,4,Castanha,Online,Alto Tamega,58,188.74,102.49,1
+2023,4,Enchidos,Distribuidor,Norte litoral,182,1871.42,1139.22,4
+2023,4,Enchidos,Loja propria,Douro,118,1226.46,766.25,3
+2023,4,Enchidos,Online,Exportacao,61,707.78,376.44,0
+2023,4,Mel,Distribuidor,Douro,154,868.6,501.95,1
+2023,4,Mel,Loja propria,Exportacao,117,717.05,363.11,4
+2023,4,Mel,Online,Tamega e Sousa,84,532.74,258.21,1
+2023,4,Vinho tinto,Distribuidor,Norte litoral,137,832.33,389.96,4
+2023,4,Vinho tinto,Loja propria,Tamega e Sousa,116,782.73,310.15,3
+2023,4,Vinho tinto,Online,Tamega e Sousa,69,449.93,190.25,1
+2023,5,Azeite,Distribuidor,Douro,160,1167.01,722.95,4
+2023,5,Azeite,Loja propria,Norte litoral,96,723.42,418.61,2
+2023,5,Azeite,Online,Norte litoral,66,494.84,284.51,0
+2023,5,Azeite,Online,Norte litoral,66,494.84,284.51,0
+2023,5,Castanha,Distribuidor,Tamega e Sousa,144,433.83,248.29,1
+2023,5,Castanha,Loja propria,Lisboa,78,254.62,132.03,1
+2023,5,Castanha,Online,Tamega e Sousa,58,168.57,101.73,0
+2023,5,Enchidos,Distribuidor,Douro,177,1755.94,1128.62,1
+2023,5,Enchidos,Loja propria,Exportacao,79,888.18,497.57,1
+2023,5,Enchidos,Online,Douro,99,1066.74,615.82,2
+2023,5,Mel,Distribuidor,Lisboa,182,1008.09,562.38,1
+2023,5,Mel,Loja propria,Douro,84,486.14,276.53,2
+2023,5,Mel,Online,Alto Tamega,57,348.27,180.78,0
+2023,5,Vinho tinto,Distribuidor,Exportacao,135,774.67,397.23,0
+2023,5,Vinho tinto,Loja propria,Douro,113,735.47,298.32,1
+2023,5,Vinho tinto,Online,Tamega e Sousa,59,393.4,167.86,1
+2023,6,Azeite,Distribuidor,Lisboa,170,1225.88,799.41,1
+2023,6,Azeite,Loja propria,Lisboa,120,958.86,550.61,1
+2023,6,Azeite,Online,Tamega e Sousa,55,446.53,254.6,3
+2023,6,Castanha,Distribuidor,Lisboa,181,548.54,317.41,1
+2023,6,Castanha,Loja propria,Alto Tamega,93,310.48,161.02,1
+2023,6,Castanha,Online,Douro,74,240.66,129.7,0
+2023,6,Enchidos,Distribuidor,Douro,136,1352.08,873.4,1
+2023,6,Enchidos,Loja propria,Norte litoral,99,1122.9,606.89,3
+2023,6,Enchidos,Online,Douro,60,638.77,396.31,2
+2023,6,Mel,Distribuidor,Tamega e Sousa,149,833.64,475.73,2
+2023,6,Mel,Loja propria,Alto Tamega,100,,284.68,0
+2023,6,Mel,Online,Tamega e Sousa,69,426.66,224.83,1
+2023,6,Vinho tinto,Distribuidor,Norte litoral,144,906.02,424.45,2
+2023,6,Vinho tinto,Loja propria,Lisboa,99,620.59,294.77,1
+2023,6,Vinho tinto,Online,Douro,67,446.72,192.21,0
+2023,7,Azeite,Distribuidor,Tamega e Sousa,170,1246.43,760.16,3
+2023,7,Azeite,Loja propria,Exportacao,119,927.26,543.97,0
+2023,7,Azeite,Online,Exportacao,103,865.77,471.91,3
+2023,7,Castanha,Distribuidor,Lisboa,152,449.35,245.49,0
+2023,7,Castanha,Loja propria,Exportacao,99,316.73,161.08,1
+2023,7,Castanha,Online,Lisboa,47,144.05,81.82,2
+2023,7,Enchidos,Distribuidor,Alto Tamega,151,1542.29,949.41,1
+2023,7,Enchidos,Loja propria,Exportacao,97,1083.84,628.99,0
+2023,7,Enchidos,Online,Norte litoral,76,884.24,478.51,0
+2023,7,Mel,Distribuidor,Douro,187,1074.8,595.43,4
+2023,7,Mel,Loja propria,Lisboa,90,538.26,277.4,2
+2023,7,Mel,Online,Tamega e Sousa,84,485.47,269.35,3
+2023,7,Vinho tinto,Distribuidor,Alto Tamega,147,891.32,425.38,3
+2023,7,Vinho tinto,Loja propria,Douro,67,418.84,199.29,0
+2023,7,Vinho tinto,Online,Lisboa,59,378.07,167.52,0
+2023,8,Azeite,Distribuidor,Norte litoral,186,1324.2,869.25,6
+2023,8,Azeite,Loja propria,Lisboa,91,716.09,418.06,1
+2023,8,Azeite,Online,Norte litoral,45,367.98,203.13,0
+2023,8,Castanha,Distribuidor,Lisboa,147,410.5,262.9,4
+2023,8,Castanha,Loja propria,Tamega e Sousa,88,280.41,154.97,2
+2023,8,Castanha,Online,Alto Tamega,92,285.95,155.94,2
+2023,8,Enchidos,Distribuidor,Alto Tamega,166,1698.91,1107.03,4
+2023,8,Enchidos,Loja propria,Douro,119,1409.93,739.06,0
+2023,8,Enchidos,Online,Alto Tamega,57,650.84,348.86,0
+2023,8,Mel,Distribuidor,Tamega e Sousa,152,854.35,454.52,1
+2023,8,Mel,Loja propria,Lisboa,55,297.01,163.42,1
+2023,8,Mel,Online,Douro,80,485.7,242.03,1
+2023,8,Vinho tinto,Distribuidor,Douro,155,912.99,433.91,5
+2023,8,Vinho tinto,Loja propria,Douro,108,677.12,304.52,1
+2023,8,Vinho tinto,Online,Lisboa,77,503.32,227.26,0
+2023,9,Azeite,Distribuidor,Douro,168,1141.71,809.65,2
+2023,9,Azeite,Loja propria,Douro,116,912.68,528.77,1
+2023,9,Azeite,Online,Tamega e Sousa,80,669.18,386.13,2
+2023,9,Castanha,Distribuidor,Douro,158,463.25,277.96,4
+2023,9,Castanha,Loja propria,Norte litoral,93,296.25,143.15,3
+2023,9,Castanha,Online,Lisboa,81,270.12,135.94,3
+2023,9,Enchidos,Distribuidor,Douro,151,1604.46,1005.48,2
+2023,9,Enchidos,Loja propria,Tamega e Sousa,93,997.4,578.52,1
+2023,9,Enchidos,Online,Exportacao,62,652.25,391.27,3
+2023,9,Mel,Distribuidor,Douro,164,,491.37,1
+2023,9,Mel,Loja propria,Tamega e Sousa,86,539.61,257.87,0
+2023,9,Mel,Online,Tamega e Sousa,72,426.3,227.19,2
+2023,9,Vinho tinto,Distribuidor,Tamega e Sousa,161,963.18,472.66,2
+2023,9,Vinho tinto,Loja propria,Douro,109,723.51,325.92,1
+2023,9,Vinho tinto,Online,Norte litoral,59,375.12,168.97,0
+2023,10,Azeite,Distribuidor,Douro,171,1223.92,768.69,3
+2023,10,Azeite,Loja propria,Norte litoral,127,974.11,585.99,2
+2023,10,Azeite,Online,Norte litoral,86,682.8,399.64,0
+2023,10,Castanha,Distribuidor,Tamega e Sousa,278,827.57,498.07,6
+2023,10,Castanha,Loja propria,Lisboa,171,544.82,299.22,1
+2023,10,Castanha,Online,Exportacao,123,396.03,210.33,3
+2023,10,Enchidos,Distribuidor,Lisboa,148,1518.78,982.21,3
+2023,10,Enchidos,Loja propria,Tamega e Sousa,77,869.54,464.89,2
+2023,10,Enchidos,Online,Tamega e Sousa,62,674.52,409.65,2
+2023,10,Mel,Distribuidor,Norte litoral,103,562.35,346.01,1
+2023,10,Mel,Loja propria,Tamega e Sousa,105,636.49,325.22,2
+2023,10,Mel,Online,Lisboa,50,312.23,146.99,0
+2023,10,Vinho tinto,Distribuidor,Douro,266,1629.95,767.96,3
+2023,10,Vinho tinto,Loja propria,Exportacao,186,1267.81,560.23,3
+2023,10,Vinho tinto,Online,Douro,146,1015.4,426.41,2
+2023,11,Azeite,Distribuidor,Tamega e Sousa,232,1668.26,1136.74,2
+2023,11,Azeite,Loja propria,Norte litoral,168,1336.27,771.23,1
+2023,11,Azeite,Online,Norte litoral,152,1170.21,681.89,2
+2023,11,Castanha,Distribuidor,Douro,276,770.82,471.58,4
+2023,11,Castanha,Loja propria,Douro,168,569.84,283.24,2
+2023,11,Castanha,Online,Douro,140,430.67,221.83,0
+2023,11,Enchidos,Distribuidor,Tamega e Sousa,281,2904.09,1817.22,5
+2023,11,Enchidos,Loja propria,Tamega e Sousa,167,1816.64,1071.81,3
+2023,11,Enchidos,Online,Norte litoral,139,1486.39,862.31,3
+2023,11,Mel,Distribuidor,Alto Tamega,256,1421.4,798.59,9
+2023,11,Mel,Loja propria,Exportacao,135,815.02,418.93,2
+2023,11,Mel,Online,Norte litoral,68,,197.02,0
+2023,11,Vinho tinto,Distribuidor,Exportacao,307,1775.66,888.33,4
+2023,11,Vinho tinto,Loja propria,Exportacao,171,1083.34,513.03,4
+2023,11,Vinho tinto,Online,Exportacao,102,655.81,289.43,0
+2023,12,Azeite,Distribuidor,Tamega e Sousa,235,1610.0,1056.48,3
+2023,12,Azeite,Loja propria,Exportacao,133,1032.18,585.58,5
+2023,12,Azeite,Online,Tamega e Sousa,121,921.92,544.43,1
+2023,12,Castanha,Distribuidor,Exportacao,263,791.22,424.95,6
+2023,12,Castanha,Loja propria,Exportacao,199,637.46,349.88,0
+2023,12,Castanha,Online,Lisboa,139,425.61,231.23,2
+2023,12,Enchidos,Distribuidor,Lisboa,254,2523.64,1587.51,6
+2023,12,Enchidos,Loja propria,Exportacao,175,1845.21,1128.13,2
+2023,12,Enchidos,Online,Exportacao,108,1151.56,662.33,3
+2023,12,Mel,Distribuidor,Exportacao,241,1242.46,750.08,2
+2023,12,Mel,Loja propria,Douro,148,890.58,453.9,2
+2023,12,Mel,Online,Tamega e Sousa,138,815.96,404.46,4
+2023,12,Vinho tinto,Distribuidor,Alto Tamega,284,1782.05,842.07,7
+2023,12,Vinho tinto,Loja propria,Douro,155,1009.08,429.06,1
+2023,12,Vinho tinto,Online,Tamega e Sousa,101,685.86,291.42,1
+2024,1,Azeite,Distribuidor,Exportacao,166,1152.11,770.19,5
+2024,1,Azeite,Loja propria,Alto Tamega,111,845.03,520.34,1
+2024,1,Azeite,Online,Lisboa,104,862.14,495.92,0
+2024,1,Castanha,Distribuidor,Douro,197,583.38,322.46,3
+2024,1,Castanha,Loja propria,Norte litoral,113,345.71,169.15,0
+2024,1,Castanha,Online,Lisboa,104,325.1,173.11,2
+2024,1,Enchidos,Distribuidor,Exportacao,163,1598.63,992.62,2
+2024,1,Enchidos,Loja propria,Exportacao,100,1126.51,659.51,0
+2024,1,Enchidos,Online,Exportacao,97,1045.47,654.89,3
+2024,1,Mel,Distribuidor,Norte litoral,212,1177.23,691.77,2
+2024,1,Mel,Loja propria,Alto Tamega,104,627.36,340.04,4
+2024,1,Mel,Online,Norte litoral,99,597.32,318.26,2
+2024,1,Vinho tinto,Distribuidor,Lisboa,179,1102.09,520.06,3
+2024,1,Vinho tinto,Loja propria,Douro,86,569.7,261.16,3
+2024,1,Vinho tinto,Online,Douro,122,767.24,367.39,2
+2024,2,Azeite,Distribuidor,Exportacao,179,1324.76,833.79,2
+2024,2,Azeite,Loja propria,Exportacao,85,704.84,388.84,1
+2024,2,Azeite,Online,Tamega e Sousa,88,678.11,405.98,2
+2024,2,Castanha,Distribuidor,Lisboa,170,457.67,277.1,2
+2024,2,Castanha,Loja propria,Lisboa,159,496.55,274.72,1
+2024,2,Castanha,Online,Douro,76,226.38,135.75,1
+2024,2,Enchidos,Distribuidor,Norte litoral,163,1670.04,1012.42,1
+2024,2,Enchidos,Loja propria,Douro,113,1202.45,742.32,0
+2024,2,Enchidos,Online,Alto Tamega,78,880.83,504.85,0
+2024,2,Mel,Distribuidor,Douro,175,1003.55,543.74,0
+2024,2,Mel,Loja propria,Exportacao,100,598.9,296.62,2
+2024,2,Mel,Online,Douro,83,479.65,269.3,1
+2024,2,Vinho tinto,Distribuidor,Alto Tamega,183,1069.24,558.79,3
+2024,2,Vinho tinto,Loja propria,Douro,134,867.22,397.77,1
+2024,2,Vinho tinto,Online,Norte litoral,102,651.18,290.31,2
+2024,3,Azeite,Distribuidor,Tamega e Sousa,184,1327.92,891.75,2
+2024,3,Azeite,Loja propria,Douro,84,624.91,398.9,2
+2024,3,Azeite,Online,Exportacao,100,758.06,455.99,4
+2024,3,Castanha,Distribuidor,Norte litoral,185,520.22,305.9,2
+2024,3,Castanha,Loja propria,Tamega e Sousa,84,256.55,146.78,0
+2024,3,Castanha,Online,Exportacao,55,176.01,94.58,1
+2024,3,Enchidos,Distribuidor,Exportacao,189,1935.87,1109.58,5
+2024,3,Enchidos,Loja propria,Exportacao,103,1164.64,679.41,2
+2024,3,Enchidos,Online,Lisboa,76,848.17,488.25,1
+2024,3,Mel,Distribuidor,Alto Tamega,172,939.17,559.91,2
+2024,3,Mel,Loja propria,Douro,123,739.27,397.6,2
+2024,3,Mel,Online,Exportacao,107,628.23,337.5,2
+2024,3,Mel,Online,Exportacao,107,628.23,337.5,2
+2024,3,Vinho tinto,Distribuidor,Douro,163,992.48,470.77,5
+2024,3,Vinho tinto,Loja propria,Alto Tamega,126,847.33,371.05,3
+2024,3,Vinho tinto,Online,Alto Tamega,64,395.0,182.47,1
+2024,4,Azeite,Distribuidor,Douro,156,1070.66,722.48,1
+2024,4,Azeite,Loja propria,Lisboa,80,628.26,375.71,0
+2024,4,Azeite,Online,Douro,100,783.79,485.64,1
+2024,4,Castanha,Distribuidor,Douro,168,475.8,279.4,2
+2024,4,Castanha,Loja propria,Alto Tamega,119,397.12,214.1,1
+2024,4,Castanha,Online,Norte litoral,129,394.09,215.76,4
+2024,4,Enchidos,Distribuidor,Douro,164,1674.53,1037.2,2
+2024,4,Enchidos,Loja propria,Norte litoral,138,1483.15,840.55,4
+2024,4,Enchidos,Online,Douro,109,1158.15,675.79,0
+2024,4,Mel,Distribuidor,Douro,175,951.87,561.51,2
+2024,4,Mel,Loja propria,Exportacao,81,466.63,244.11,0
+2024,4,Mel,Online,Tamega e Sousa,86,519.64,279.43,3
+2024,4,Vinho tinto,Distribuidor,Norte litoral,177,1057.04,489.88,2
+2024,4,Vinho tinto,Loja propria,Lisboa,113,778.09,317.53,4
+2024,4,Vinho tinto,Online,Douro,112,755.21,337.58,0
+2024,5,Azeite,Distribuidor,Norte litoral,170,1258.77,795.79,3
+2024,5,Azeite,Loja propria,Lisboa,132,1067.41,597.25,1
+2024,5,Azeite,Online,Norte litoral,101,780.3,478.03,2
+2024,5,Castanha,Distribuidor,Exportacao,151,440.39,255.67,2
+2024,5,Castanha,Loja propria,Lisboa,125,407.53,212.68,3
+2024,5,Castanha,Online,Tamega e Sousa,113,345.05,186.41,2
+2024,5,Enchidos,Distribuidor,Douro,160,1654.05,999.36,2
+2024,5,Enchidos,Loja propria,Norte litoral,144,1638.24,909.68,1
+2024,5,Enchidos,Online,Norte litoral,92,1042.14,543.21,1
+2024,5,Mel,Distribuidor,Alto Tamega,147,795.64,458.34,5
+2024,5,Mel,Loja propria,Lisboa,91,511.65,287.37,0
+2024,5,Mel,Online,Douro,136,816.2,416.09,4
+2024,5,Vinho tinto,Distribuidor,Douro,137,792.25,385.16,4
+2024,5,Vinho tinto,Loja propria,Norte litoral,114,740.86,323.9,0
+2024,5,Vinho tinto,Online,Exportacao,111,734.3,345.34,0
+2024,6,Azeite,Distribuidor,Exportacao,179,1356.99,874.64,4
+2024,6,Azeite,Loja propria,Exportacao,85,6747.0,393.89,2
+2024,6,Azeite,Online,Norte litoral,100,801.92,440.13,1
+2024,6,Castanha,Distribuidor,Tamega e Sousa,171,522.48,297.3,5
+2024,6,Castanha,Loja propria,Douro,89,282.43,158.01,3
+2024,6,Castanha,Online,Douro,92,311.79,162.23,2
+2024,6,Enchidos,Distribuidor,Alto Tamega,165,1666.25,1015.06,3
+2024,6,Enchidos,Loja propria,Exportacao,106,1217.02,677.36,1
+2024,6,Enchidos,Online,Douro,92,977.02,567.66,0
+2024,6,Mel,Distribuidor,Alto Tamega,176,941.17,564.08,2
+2024,6,Mel,Loja propria,Tamega e Sousa,96,584.95,303.89,1
+2024,6,Mel,Online,Douro,81,488.12,266.08,3
+2024,6,Vinho tinto,Distribuidor,Lisboa,141,796.81,430.27,6
+2024,6,Vinho tinto,Loja propria,Tamega e Sousa,102,663.61,301.0,2
+2024,6,Vinho tinto,Online,Douro,120,805.75,341.24,0
+2024,7,Azeite,Distribuidor,Norte litoral,146,1037.55,614.87,4
+2024,7,Azeite,Loja propria,Alto Tamega,104,793.6,474.56,1
+2024,7,Azeite,Online,Tamega e Sousa,98,739.12,449.19,1
+2024,7,Castanha,Distribuidor,Exportacao,159,463.73,262.53,1
+2024,7,Castanha,Loja propria,Alto Tamega,77,252.55,129.98,1
+2024,7,Castanha,Online,Douro,90,279.59,149.76,0
+2024,7,Enchidos,Distribuidor,Exportacao,145,,928.33,3
+2024,7,Enchidos,Loja propria,Lisboa,99,1100.82,572.56,4
+2024,7,Enchidos,Online,Exportacao,73,785.81,438.82,0
+2024,7,Mel,Distribuidor,Tamega e Sousa,147,820.74,474.84,2
+2024,7,Mel,Loja propria,Douro,100,625.09,309.62,1
+2024,7,Mel,Online,Douro,138,833.45,431.99,0
+2024,7,Vinho tinto,Distribuidor,Lisboa,176,1039.64,507.43,1
+2024,7,Vinho tinto,Loja propria,Lisboa,88,584.77,250.52,0
+2024,7,Vinho tinto,Online,Tamega e Sousa,97,640.54,293.22,2
+2024,8,Azeite,Distribuidor,Douro,150,1096.12,706.45,2
+2024,8,Azeite,Loja propria,Douro,86,678.61,407.13,1
+2024,8,Azeite,Online,Douro,104,851.22,456.54,3
+2024,8,Castanha,Distribuidor,Lisboa,160,484.57,276.63,3
+2024,8,Castanha,Loja propria,Exportacao,69,215.86,112.11,1
+2024,8,Castanha,Online,Norte litoral,120,389.91,212.45,1
+2024,8,Enchidos,Distribuidor,Douro,159,1566.08,1084.6,2
+2024,8,Enchidos,Loja propria,Alto Tamega,81,902.81,513.47,0
+2024,8,Enchidos,Online,Norte litoral,85,979.54,523.5,2
+2024,8,Mel,Distribuidor,Alto Tamega,186,1041.92,590.07,4
+2024,8,Mel,Loja propria,Exportacao,81,490.93,252.99,0
+2024,8,Mel,Online,Douro,74,445.72,240.25,1
+2024,8,Vinho tinto,Distribuidor,Norte litoral,160,1003.51,464.29,4
+2024,8,Vinho tinto,Loja propria,Douro,103,675.35,309.49,0
+2024,8,Vinho tinto,Online,Norte litoral,98,644.88,283.89,3
+2024,9,Azeite,Distribuidor,Douro,186,1366.27,765.99,3
+2024,9,Azeite,Loja propria,Douro,92,699.7,442.08,2
+2024,9,Azeite,Online,Alto Tamega,109,837.59,532.94,3
+2024,9,Castanha,Distribuidor,Douro,190,548.3,320.55,3
+2024,9,Castanha,Loja propria,Norte litoral,104,332.94,182.62,2
+2024,9,Castanha,Online,Douro,113,357.23,190.28,3
+2024,9,Enchidos,Distribuidor,Lisboa,200,2139.99,1267.78,2
+2024,9,Enchidos,Loja propria,Tamega e Sousa,108,1136.49,717.24,0
+2024,9,Enchidos,Online,Tamega e Sousa,84,935.07,567.94,1
+2024,9,Mel,Distribuidor,Alto Tamega,177,1004.57,525.9,2
+2024,9,Mel,Loja propria,Alto Tamega,96,576.79,305.88,0
+2024,9,Mel,Online,Lisboa,118,709.92,371.4,1
+2024,9,Vinho tinto,Distribuidor,Exportacao,182,1086.51,569.5,2
+2024,9,Vinho tinto,Loja propria,Douro,128,845.28,365.3,0
+2024,9,Vinho tinto,Online,Lisboa,82,535.14,238.14,1
+2024,10,Azeite,Distribuidor,Alto Tamega,180,1243.66,817.94,4
+2024,10,Azeite,Loja propria,Exportacao,85,647.72,406.83,3
+2024,10,Azeite,Online,Alto Tamega,95,743.15,430.21,1
+2024,10,Castanha,Distribuidor,Douro,307,937.77,544.03,8
+2024,10,Castanha,Loja propria,Douro,181,569.05,310.83,3
+2024,10,Castanha,Online,Lisboa,137,438.44,246.14,1
+2024,10,Enchidos,Distribuidor,Tamega e Sousa,178,1878.87,1140.09,3
+2024,10,Enchidos,Loja propria,Douro,116,1251.27,755.5,1
+2024,10,Enchidos,Online,Tamega e Sousa,104,1193.03,684.79,2
+2024,10,Mel,Distribuidor,Douro,156,860.38,452.97,4
+2024,10,Mel,Loja propria,Tamega e Sousa,88,522.58,261.54,0
+2024,10,Mel,Online,Alto Tamega,110,627.94,338.18,0
+2024,10,Vinho tinto,Distribuidor,Tamega e Sousa,307,1882.83,865.16,6
+2024,10,Vinho tinto,Loja propria,Tamega e Sousa,185,1158.19,534.25,5
+2024,10,Vinho tinto,Online,Douro,198,1338.53,564.16,4
+2024,11,Azeite,Distribuidor,Norte litoral,278,,1308.91,2
+2024,11,Azeite,Loja propria,Douro,180,1411.31,840.77,1
+2024,11,Azeite,Online,Lisboa,167,1262.95,752.46,2
+2024,11,Castanha,Distribuidor,Tamega e Sousa,296,891.34,499.32,9
+2024,11,Castanha,Loja propria,Tamega e Sousa,200,654.93,349.12,3
+2024,11,Castanha,Online,Tamega e Sousa,135,452.37,243.38,1
+2024,11,Enchidos,Distribuidor,Exportacao,291,2996.37,1899.25,6
+2024,11,Enchidos,Loja propria,Douro,214,2452.4,1348.39,2
+2024,11,Enchidos,Online,Douro,189,2017.61,1214.1,2
+2024,11,Mel,Distribuidor,Douro,273,1382.84,898.16,9
+2024,11,Mel,Loja propria,Lisboa,184,1071.74,611.22,2
+2024,11,Mel,Online,Lisboa,142,861.04,441.79,1
+2024,11,Vinho tinto,Distribuidor,Norte litoral,310,1793.09,873.6,1
+2024,11,Vinho tinto,Loja propria,Tamega e Sousa,168,1153.37,495.97,4
+2024,11,Vinho tinto,Online,Tamega e Sousa,186,1236.6,547.89,4
+2024,12,Azeite,Distribuidor,Alto Tamega,287,2050.34,1385.74,2
+2024,12,Azeite,Loja propria,Exportacao,165,1268.86,775.39,5
+2024,12,Azeite,Online,Exportacao,165,1291.76,757.77,1
+2024,12,Castanha,Distribuidor,Lisboa,283,802.59,491.24,3
+2024,12,Castanha,Loja propria,Exportacao,187,606.62,314.77,2
+2024,12,Castanha,Online,Douro,156,508.81,276.1,0
+2024,12,Enchidos,Distribuidor,Exportacao,272,2695.51,1717.7,1
+2024,12,Enchidos,Loja propria,Douro,206,2235.33,1280.39,6
+2024,12,Enchidos,Online,Douro,154,1756.62,946.15,2
+2024,12,Mel,Distribuidor,Exportacao,281,1565.22,822.19,8
+2024,12,Mel,Loja propria,Tamega e Sousa,187,1104.0,569.23,7
+2024,12,Mel,Online,Exportacao,164,1011.91,497.19,1
+2024,12,Vinho tinto,Distribuidor,Lisboa,288,1708.3,828.57,3
+2024,12,Vinho tinto,Distribuidor,Lisboa,288,1708.3,828.57,3
+2024,12,Vinho tinto,Loja propria,Exportacao,180,1110.79,509.54,4
+2024,12,Vinho tinto,Online,Lisboa,164,1031.03,463.68,3
+2025,1,Azeite,Distribuidor,Exportacao,184,1294.39,839.32,4
+2025,1,Azeite,Loja propria,Norte litoral,119,887.13,514.37,1
+2025,1,Azeite,Online,Tamega e Sousa,81,608.97,362.04,1
+2025,1,Castanha,Distribuidor,Norte litoral,181,535.64,322.88,2
+2025,1,Castanha,Loja propria,Norte litoral,106,344.31,173.68,0
+2025,1,Castanha,Online,Lisboa,113,353.42,183.0,1
+2025,1,Enchidos,Distribuidor,Norte litoral,161,1713.03,952.38,0
+2025,1,Enchidos,Loja propria,Douro,110,1204.71,662.82,0
+2025,1,Enchidos,Online,Lisboa,124,1432.3,748.65,2
+2025,1,Mel,Distribuidor,Exportacao,167,866.9,516.1,2
+2025,1,Mel,Loja propria,Alto Tamega,88,526.61,275.01,0
+2025,1,Mel,Online,Lisboa,133,789.33,411.89,1
+2025,1,Vinho tinto,Distribuidor,Exportacao,198,1130.89,574.35,3
+2025,1,Vinho tinto,Loja propria,Alto Tamega,118,731.25,323.04,2
+2025,1,Vinho tinto,Online,Lisboa,87,559.58,235.09,0
+2025,2,Azeite,Distribuidor,Lisboa,137,990.54,593.34,2
+2025,2,Azeite,Loja propria,Douro,111,845.68,494.32,4
+2025,2,Azeite,Online,Norte litoral,133,1034.04,678.27,0
+2025,2,Castanha,Distribuidor,Douro,184,547.6,304.92,2
+2025,2,Castanha,Loja propria,Douro,117,380.38,196.41,2
+2025,2,Castanha,Online,Norte litoral,116,368.64,206.79,1
+2025,2,Enchidos,Distribuidor,Norte litoral,175,1803.28,1127.08,0
+2025,2,Enchidos,Loja propria,Alto Tamega,86,969.14,517.09,1
+2025,2,Enchidos,Online,Douro,74,807.39,440.39,2
+2025,2,Mel,Distribuidor,Lisboa,162,905.5,541.94,4
+2025,2,Mel,Loja propria,Douro,126,760.08,389.54,1
+2025,2,Mel,Online,Exportacao,94,565.55,276.43,0
+2025,2,Vinho tinto,Distribuidor,Douro,164,,508.25,4
+2025,2,Vinho tinto,Loja propria,Douro,109,699.93,306.21,1
+2025,2,Vinho tinto,Online,Douro,100,632.11,276.63,2
+2025,3,Azeite,Distribuidor,Norte litoral,144,1048.38,637.05,0
+2025,3,Azeite,Loja propria,Douro,131,1052.18,604.74,2
+2025,3,Azeite,Online,Douro,113,851.5,519.3,1
+2025,3,Castanha,Distribuidor,Alto Tamega,183,,331.05,3
+2025,3,Castanha,Loja propria,Exportacao,84,265.01,165.0,1
+2025,3,Castanha,Online,Douro,137,430.02,223.27,1
+2025,3,Enchidos,Distribuidor,Douro,158,1600.38,972.36,2
+2025,3,Enchidos,Loja propria,Norte litoral,82,954.47,516.91,2
+2025,3,Enchidos,Loja propria,Norte litoral,82,954.47,516.91,2
+2025,3,Enchidos,Online,Exportacao,92,1043.5,593.38,2
+2025,3,Mel,Online,Tamega e Sousa,99,625.33,299.93,3
+2025,3,Vinho tinto,Distribuidor,Lisboa,144,866.69,398.3,3
+2025,3,Vinho tinto,Loja propria,Lisboa,102,649.71,281.53,1
+2025,3,Vinho tinto,Online,Exportacao,133,884.62,384.59,1
+2025,3,mel,Distribuidor,Lisboa,198,1107.1,622.97,3
+2025,3,mel,Loja propria,Douro,99,592.65,290.37,0
+2025,4,Azeite,Distribuidor,Tamega e Sousa,185,1324.99,856.16,1
+2025,4,Azeite,Loja propria,Tamega e Sousa,103,832.59,473.34,1
+2025,4,Azeite,Online,Lisboa,119,951.76,538.51,2
+2025,4,Castanha,Distribuidor,Tamega e Sousa,190,568.93,334.31,2
+2025,4,Castanha,Distribuidor,Tamega e Sousa,190,568.93,334.31,2
+2025,4,Castanha,Loja propria,Lisboa,146,468.09,259.08,1
+2025,4,Castanha,Online,Norte litoral,122,396.81,218.02,2
+2025,4,Enchidos,Distribuidor,Norte litoral,196,1996.62,1242.25,2
+2025,4,Enchidos,Loja propria,Douro,118,1268.07,753.55,0
+2025,4,Enchidos,Online,Exportacao,120,1303.47,807.84,6
+2025,4,Mel,Distribuidor,Tamega e Sousa,175,938.16,565.21,3
+2025,4,Mel,Loja propria,Exportacao,134,782.78,411.95,1
+2025,4,Mel,Online,Tamega e Sousa,151,872.51,468.82,2
+2025,4,Vinho tinto,Distribuidor,Douro,185,1097.82,535.42,1
+2025,4,Vinho tinto,Loja propria,Tamega e Sousa,115,789.34,322.02,0
+2025,4,Vinho tinto,Online,Douro,78,507.0,222.25,3
+2025,5,Azeite,Distribuidor,Exportacao,179,1257.28,825.34,3
+2025,5,Azeite,Loja propria,Norte litoral,117,848.41,542.96,0
+2025,5,Azeite,Online,Tamega e Sousa,125,922.45,595.82,7
+2025,5,Castanha,Distribuidor,Exportacao,175,500.72,307.18,3
+2025,5,Castanha,Loja propria,Lisboa,106,341.43,170.28,2
+2025,5,Castanha,Online,Lisboa,135,425.12,231.45,0
+2025,5,Enchidos,Distribuidor,Tamega e Sousa,179,1791.62,1236.61,6
+2025,5,Enchidos,Loja propria,Douro,83,971.45,561.0,1
+2025,5,Enchidos,Online,Norte litoral,106,1079.27,699.13,5
+2025,5,Mel,Distribuidor,Norte litoral,182,1030.22,554.89,4
+2025,5,Mel,Loja propria,Tamega e Sousa,159,967.94,483.19,0
+2025,5,Mel,Online,Alto Tamega,120,707.3,399.18,3
+2025,5,Vinho tinto,Distribuidor,Norte litoral,182,1132.61,548.21,1
+2025,5,Vinho tinto,Loja propria,Lisboa,103,633.26,298.41,2
+2025,5,Vinho tinto,Online,Lisboa,136,898.52,385.77,3
+2025,6,Azeite,Distribuidor,Exportacao,155,1134.06,748.54,2
+2025,6,Azeite,Loja propria,Exportacao,118,935.57,573.38,2
+2025,6,Azeite,Online,Lisboa,100,,455.97,2
+2025,6,Castanha,Distribuidor,Douro,176,527.47,295.9,4
+2025,6,Castanha,Loja propria,Tamega e Sousa,86,274.67,143.64,1
+2025,6,Castanha,Online,Alto Tamega,114,346.0,200.6,0
+2025,6,Enchidos,Distribuidor,Alto Tamega,183,1921.63,1168.35,4
+2025,6,Enchidos,Loja propria,Douro,131,1354.55,816.88,1
+2025,6,Enchidos,Online,Tamega e Sousa,133,1418.79,905.27,1
+2025,6,Mel,Distribuidor,Norte litoral,181,982.49,540.61,3
+2025,6,Mel,Distribuidor,Norte litoral,181,982.49,540.61,3
+2025,6,Mel,Loja propria,Lisboa,112,675.65,350.67,0
+2025,6,Mel,Online,Douro,112,663.24,311.3,0
+2025,6,Vinho tinto,Distribuidor,Exportacao,167,1025.77,495.84,0
+2025,6,Vinho tinto,Loja propria,Douro,147,936.04,435.74,2
+2025,6,Vinho tinto,Online,Lisboa,114,731.78,326.85,1
+2025,7,Azeite,Distribuidor,Norte litoral,163,1168.15,765.99,3
+2025,7,Azeite,Loja propria,Douro,101,783.77,491.15,2
+2025,7,Azeite,Online,Norte litoral,111,878.17,488.88,1
+2025,7,Castanha,Distribuidor,Tamega e Sousa,155,461.5,264.94,4
+2025,7,Castanha,Loja propria,Lisboa,105,311.95,167.27,2
+2025,7,Castanha,Online,Norte litoral,141,447.43,245.36,4
+2025,7,Enchidos,Distribuidor,Douro,143,1482.03,899.94,3
+2025,7,Enchidos,Loja propria,Douro,123,1411.73,764.66,0
+2025,7,Enchidos,Online,Tamega e Sousa,116,1251.19,739.33,1
+2025,7,Mel,Distribuidor,Tamega e Sousa,140,759.9,450.92,3
+2025,7,Mel,Loja propria,Lisboa,120,725.04,386.27,3
+2025,7,Mel,Online,Tamega e Sousa,84,522.0,240.54,0
+2025,7,Vinho tinto,Distribuidor,Exportacao,162,958.98,483.31,5
+2025,7,Vinho tinto,Loja propria,Norte litoral,163,1045.18,486.26,1
+2025,7,Vinho tinto,Online,Tamega e Sousa,145,929.95,446.22,0
+2025,8,Azeite,Distribuidor,Douro,148,1043.21,668.39,0
+2025,8,Azeite,Loja propria,Norte litoral,118,907.83,531.81,0
+2025,8,Azeite,Online,Norte litoral,140,1058.85,614.95,3
+2025,8,Castanha,Distribuidor,Exportacao,182,536.11,311.96,3
+2025,8,Castanha,Loja propria,Norte litoral,88,286.54,141.43,0
+2025,8,Castanha,Online,Norte litoral,112,384.92,194.26,1
+2025,8,Enchidos,Distribuidor,Douro,165,1577.55,1007.99,3
+2025,8,Enchidos,Loja propria,Tamega e Sousa,117,1256.53,812.69,5
+2025,8,Enchidos,Online,Alto Tamega,148,1631.33,936.0,1
+2025,8,Mel,Distribuidor,Lisboa,163,926.71,535.36,1
+2025,8,Mel,Loja propria,Norte litoral,107,614.87,320.4,2
+2025,8,Mel,Online,Tamega e Sousa,109,686.1,344.41,2
+2025,8,Vinho tinto,Distribuidor,Tamega e Sousa,219,1306.03,600.08,2
+2025,8,Vinho tinto,Loja propria,Lisboa,95,569.56,282.22,2
+2025,8,Vinho tinto,Online,Lisboa,111,747.45,335.05,0
+2025,9,Azeite,Distribuidor,Douro,163,1197.0,719.01,3
+2025,9,Azeite,Loja propria,Exportacao,81,639.76,377.82,2
+2025,9,Azeite,Online,Douro,114,894.44,494.69,3
+2025,9,Castanha,Distribuidor,Norte litoral,155,474.8,233.54,2
+2025,9,Castanha,Loja propria,Tamega e Sousa,85,264.84,158.44,1
+2025,9,Castanha,Online,Douro,104,337.04,168.64,0
+2025,9,Enchidos,Distribuidor,Douro,194,1990.07,1303.82,4
+2025,9,Enchidos,Loja propria,Tamega e Sousa,125,1360.85,775.52,2
+2025,9,Enchidos,Online,Douro,81,882.75,538.0,0
+2025,9,Mel,Distribuidor,Lisboa,161,877.87,490.5,2
+2025,9,Mel,Loja propria,Alto Tamega,105,630.55,324.45,0
+2025,9,Mel,Online,Norte litoral,89,536.45,267.08,2
+2025,9,Vinho tinto,Distribuidor,Norte litoral,158,945.53,458.2,2
+2025,9,Vinho tinto,Loja propria,Norte litoral,112,679.35,341.58,1
+2025,9,Vinho tinto,Online,Exportacao,98,646.51,288.9,2
+2025,10,Azeite,Distribuidor,Norte litoral,180,1323.07,769.32,2
+2025,10,Azeite,Loja propria,Douro,90,680.3,415.18,2
+2025,10,Azeite,Online,Douro,110,854.07,485.83,2
+2025,10,Castanha,Distribuidor,Alto Tamega,309,909.19,570.01,2
+2025,10,Castanha,Loja propria,Douro,164,522.45,270.73,1
+2025,10,Castanha,Online,Lisboa,228,759.78,420.35,6
+2025,10,Enchidos,Distribuidor,Alto Tamega,147,1412.26,952.09,3
+2025,10,Enchidos,Loja propria,Tamega e Sousa,81,901.47,514.44,1
+2025,10,Enchidos,Online,Lisboa,130,1369.7,850.95,1
+2025,10,Mel,Distribuidor,Tamega e Sousa,185,984.49,588.0,4
+2025,10,Mel,Loja propria,Tamega e Sousa,103,607.07,308.3,1
+2025,10,Mel,Online,Exportacao,66,407.62,209.43,0
+2025,10,Vinho tinto,Distribuidor,Tamega e Sousa,301,1843.62,884.32,8
+2025,10,Vinho tinto,Loja propria,Exportacao,203,1332.08,583.93,2
+2025,10,Vinho tinto,Online,Douro,184,1195.87,576.4,1
+2025,11,Azeite,Distribuidor,Douro,311,2288.84,1542.19,5
+2025,11,Azeite,Loja propria,Tamega e Sousa,206,1561.37,947.25,1
+2025,11,Azeite,Online,Alto Tamega,197,1548.09,934.67,1
+2025,11,Castanha,Distribuidor,Norte litoral,310,906.44,491.5,9
+2025,11,Castanha,Loja propria,Exportacao,212,653.0,350.3,2
+2025,11,Castanha,Online,Alto Tamega,200,630.03,329.75,4
+2025,11,Enchidos,Distribuidor,Alto Tamega,273,2783.68,1766.45,6
+2025,11,Enchidos,Loja propria,Norte litoral,211,2177.13,1279.15,3
+2025,11,Enchidos,Online,Norte litoral,198,2171.54,1237.17,4
+2025,11,Mel,Distribuidor,Douro,273,1489.64,853.31,4
+2025,11,Mel,Loja propria,Tamega e Sousa,153,899.38,464.56,3
+2025,11,Mel,Online,Tamega e Sousa,225,1267.76,681.74,4
+2025,11,Vinho tinto,Distribuidor,Norte litoral,322,1845.82,943.66,2
+2025,11,Vinho tinto,Loja propria,Douro,180,1166.19,529.11,0
+2025,11,Vinho tinto,Online,Exportacao,213,1422.54,631.02,4
+2025,12,Azeite,Distribuidor,Douro,261,1850.0,1190.68,4
+2025,12,Azeite,Loja propria,Exportacao,211,1591.88,980.54,3
+2025,12,Azeite,Online,Exportacao,207,1618.51,960.53,4
+2025,12,Castanha,Distribuidor,Douro,304,860.01,539.13,4
+2025,12,Castanha,Loja propria,Lisboa,158,538.66,262.2,1
+2025,12,Castanha,Online,Tamega e Sousa,206,666.6,336.59,3
+2025,12,Enchidos,Distribuidor,Douro,294,3000.49,1951.36,4
+2025,12,Enchidos,Loja propria,Tamega e Sousa,168,1896.45,1058.02,4
+2025,12,Enchidos,Online,Douro,193,2003.67,1244.78,2
+2025,12,Mel,Distribuidor,Exportacao,322,1746.51,1014.0,3
+2025,12,Mel,Loja propria,Norte litoral,197,1182.35,578.69,0
+2025,12,Mel,Online,Exportacao,191,1163.25,579.68,2
+2025,12,Vinho tinto,Distribuidor,Douro,318,1912.38,880.91,4
+2025,12,Vinho tinto,Loja propria,Alto Tamega,217,1378.49,669.18,1
+2025,12,Vinho tinto,Online,Tamega e Sousa,191,1241.09,571.56,2

@@ -1,0 +1,20 @@
+[project]
+name = "insights-for-agro"
+version = "0.1.0"
+description = "AgroNet Forward | AI Insights for Agro - notebooks de demonstração"
+authors = [
+    { name = "rlopes", email = "rlopes@ipb.pt" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "numpy",
+    "pandas",
+    "scikit-learn",
+    "matplotlib",
+    "requests",
+    "jupyter",
+    "jupyterlab",
+]
+
+[tool.uv]
+package = false
