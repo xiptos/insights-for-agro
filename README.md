@@ -36,9 +36,9 @@ O único passo opcional é a célula final do notebook 1 (meteorologia real).
 
 | Notebook | Abrir no Colab |
 |---|---|
-| 1 · Predição (míldio) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](COLAB_LINK_1) |
-| 2 · Anomalias (câmara de frio) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](COLAB_LINK_2) |
-| 3 · Classificação (qualidade das uvas) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](COLAB_LINK_3) |
+| 1 · Predição (míldio) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/xiptos/insights-for-agro/blob/main/notebooks/01_predicao_risco_miledio.ipynb) |
+| 2 · Anomalias (câmara de frio) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/xiptos/insights-for-agro/blob/main/notebooks/02_anomalias_camara_frio.ipynb) |
+| 3 · Classificação (qualidade das uvas) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/xiptos/insights-for-agro/blob/main/notebooks/03_classificacao_qualidade_uvas.ipynb) |
 
 **Localmente:** este é um projeto [uv](https://docs.astral.sh/uv/). Corra `uv sync` e depois `uv run jupyter lab`,
 a partir da pasta raiz (os notebooks em `notebooks/` procuram `../dados/…`).
